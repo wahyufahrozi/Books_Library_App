@@ -9,7 +9,7 @@ A Collection Of Books Using ReactJS
 </p>
 <p align="center">
     <a href="#">
-    <img alt="David" src="https://img.shields.io/david/dev/wahyufahrozi/FrontEndReact">
+    <img alt="wahyu" src="https://img.shields.io/david/dev/wahyufahrozi/FrontEndReact">
   </a>
   <a href="https://github.com/iyansr?tab=followers">
     <img title="Followers" src="https://img.shields.io/github/followers/wahyufahrozi?style=social">
@@ -36,7 +36,7 @@ A Collection Of Books Using ReactJS
 ## Build Setup
 
 1. Clone repository
-   `$ git clone https://github.com/wahyufahrozi/FrontEndReact`
+   `$ git clone https://github.com/wahyufahrozi/Books_Library_App`
 
 2. Install depedencies
 
@@ -57,6 +57,7 @@ $ npm start
 ## Stacks
 
 - ReactJS
+- Materialize CSS
   <!-- - MySQL -->
   <!-- - ExpressJS -->
 
@@ -70,7 +71,6 @@ $ npm start
 - `index.js` - Entry point of our aplication
 - `src/Components` - This folder containt files that define all components
 - `src/Pages` - All pages of this web goes here
-- `src/Helpers` - This folder contain file that help you simplify your code such as define dummy data
 - `src/Assets` - This folder contain assets for this web, such as images
 
 ---
@@ -84,6 +84,18 @@ $ npm start
 - Details
 
 ![Details](https://user-images.githubusercontent.com/22940581/68371284-f238e000-0170-11ea-8d10-4a318135fa60.png)
+
+- Add Book
+
+![Add](https://user-images.githubusercontent.com/22940581/68882193-4b8caa80-0741-11ea-8da2-232e7345495d.png)
+
+- Edit Book
+
+![Edit](https://user-images.githubusercontent.com/22940581/68882895-95c25b80-0742-11ea-8471-a36df19d08de.png)
+
+- Delete Book
+
+![Delete](https://user-images.githubusercontent.com/22940581/68882998-c4403680-0742-11ea-9218-11724bed2416.png)
 
 ---
 

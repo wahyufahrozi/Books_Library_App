@@ -312,7 +312,7 @@ class Navbar extends Component {
                   </label>
                 </div>
                 <div className="input-field col s12">
-                  <i class="tiny material-icons prefix">today</i>
+                  <i class="tiny material-icons prefix">title</i>
                   <input
                     name="description"
                     placeholder="description"
@@ -327,7 +327,7 @@ class Navbar extends Component {
                   </label>
                 </div>
                 <div className="input-field col s12">
-                  <i class="tiny material-icons prefix">today</i>
+                  <i class="tiny material-icons prefix">title</i>
                   <select
                     name="id_status"
                     placeholder="Status"
@@ -345,7 +345,7 @@ class Navbar extends Component {
                   <label>Status</label>
                 </div>
                 <div className="input-field col s12">
-                  <i class="tiny material-icons prefix">today</i>
+                  <i class="tiny material-icons prefix">code</i>
                   <select
                     name="id_genre"
                     placeholder="Genre"
