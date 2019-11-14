@@ -1,0 +1,9 @@
+.sidenav .user-view .circle {
+  height: 110px !important;
+  width: 110px !important;
+  margin-left: 48px !important;
+}
+.close {
+  color: red;
+  font-size: 18pt;
+}
