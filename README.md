@@ -58,8 +58,9 @@ $ npm start
 
 - ReactJS
 - Materialize CSS
-  <!-- - MySQL -->
-  <!-- - ExpressJS -->
+- Redux
+- Node Js
+- Express
 
 ## Dependencies
 

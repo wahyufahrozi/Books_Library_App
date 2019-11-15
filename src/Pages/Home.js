@@ -80,13 +80,13 @@ class Home extends Component {
       <div className="Home">
         <Navbar
           // modalId="modaladd"
-          title={this.state.tempBook.title}
-          author={this.state.tempBook.author}
-          image_url={this.state.tempBook.image_url}
-          date={this.state.tempBook.date}
-          year={this.state.tempBook.year}
-          description={this.state.tempBook.description}
-          genre={this.state.tempBook.genre}
+          // title={this.state.tempBook.title}
+          // author={this.state.tempBook.author}
+          // image_url={this.state.tempBook.image_url}
+          // date={this.state.tempBook.date}
+          // year={this.state.tempBook.year}
+          // description={this.state.tempBook.description}
+          // genre={this.state.tempBook.genre}
           // ongenre={this.handlegenre.bind(this)}
           // onChange={this.handleChange}
           handleSearch={this.handleSearch.bind(this)}
@@ -120,7 +120,9 @@ class Home extends Component {
           <Pagination
             totalPosts={this.state.post.length}
             postsPerPage={this.state.postsPerPage}
-            paginate={pgnum => this.setState({ currentPage: pgnum })}
+            paginate={pagenumbers =>
+              this.setState({ currentPage: pagenumbers })
+            }
           />
           <header className="App-header">{}</header>
         </div>

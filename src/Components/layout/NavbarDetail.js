@@ -97,7 +97,7 @@ class NavbarDetail extends Component {
                   </label>
                 </div>
                 <div className="input-field col s12">
-                  <i class="tiny material-icons prefix">title</i>
+                  <i class="tiny material-icons prefix">contact</i>
                   <input
                     name="author"
                     placeholder="author"
@@ -112,7 +112,7 @@ class NavbarDetail extends Component {
                   </label>
                 </div>
                 <div className="input-field col s12">
-                  <i class="tiny material-icons prefix">title</i>
+                  <i class="tiny material-icons prefix">code</i>
                   <input
                     name="image_url"
                     placeholder="image_url"
@@ -142,7 +142,7 @@ class NavbarDetail extends Component {
                   </label>
                 </div>
                 <div className="input-field col s12">
-                  <i class="tiny material-icons prefix">title</i>
+                  <i class="tiny material-icons prefix">today</i>
                   <input
                     name="date"
                     placeholder="date"
@@ -157,7 +157,7 @@ class NavbarDetail extends Component {
                   </label>
                 </div>
                 <div className="input-field col s12">
-                  <i class="tiny material-icons prefix">title</i>
+                  <i class="tiny material-icons prefix">today</i>
                   <input
                     name="year"
                     placeholder="year"
@@ -172,7 +172,7 @@ class NavbarDetail extends Component {
                   </label>
                 </div>
                 <div className="input-field col s12">
-                  <i class="tiny material-icons prefix">today</i>
+                  <i class="tiny material-icons prefix">title</i>
                   <select
                     name="id_status"
                     placeholder="Status"
@@ -190,7 +190,7 @@ class NavbarDetail extends Component {
                   <label>Status</label>
                 </div>
                 <div className="input-field col s12">
-                  <i class="tiny material-icons prefix">today</i>
+                  <i class="tiny material-icons prefix">code</i>
                   <select
                     name="id_genre"
                     placeholder="Genre"
