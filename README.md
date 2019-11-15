@@ -66,6 +66,10 @@ $ npm start
 
 - [materialize-css](https://www.npmjs.com/package/materialize-css) - Materialize, a CSS Framework based on material design.
 - [react-router-dom](https://www.npmjs.com/package/react-router-dom) - DOM bindings for React Router.
+- [redux-promise-middleware](https://www.npmjs.com/package/redux-promise-middleware) - Redux Promise Middleware enables simple, yet robust handling of async action creators in Redux.
+- [react-redux](https://www.npmjs.com/package/react-redux) - Official React bindings for Redux. Performant and flexible.
+- [axios](https://www.npmjs.com/package/axios) - Promise based HTTP client for the browser and node.js
+- [redux](https://www.npmjs.com/package/redux) - Redux is a predictable state container for JavaScript apps.
 
 ## Aplication Structure
 
