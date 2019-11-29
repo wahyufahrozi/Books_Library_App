@@ -70,6 +70,7 @@ $ npm start
 - [react-redux](https://www.npmjs.com/package/react-redux) - Official React bindings for Redux. Performant and flexible.
 - [axios](https://www.npmjs.com/package/axios) - Promise based HTTP client for the browser and node.js
 - [redux](https://www.npmjs.com/package/redux) - Redux is a predictable state container for JavaScript apps.
+- [JWT](https://www.npmjs.com/package/jsonwebtoken) 
 
 ## Aplication Structure
 
